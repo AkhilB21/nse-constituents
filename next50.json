@@ -1,5 +1,4 @@
 [
-  {"sym":"ZOMATO.NS","name":"Eternal (Zomato)","sector":"Internet"},
   {"sym":"DMART.NS","name":"Avenue Supermarts","sector":"Retail"},
   {"sym":"PIDILITIND.NS","name":"Pidilite Industries","sector":"Chemicals"},
   {"sym":"ADANIGREEN.NS","name":"Adani Green Energy","sector":"Power"},
@@ -35,7 +34,6 @@
   {"sym":"PFC.NS","name":"Power Finance Corp","sector":"Finance"},
   {"sym":"RECLTD.NS","name":"REC Ltd","sector":"Finance"},
   {"sym":"IRFC.NS","name":"Indian Railway Finance","sector":"Finance"},
-  {"sym":"BEL.NS","name":"Bharat Electronics","sector":"Defence"},
   {"sym":"SRF.NS","name":"SRF Ltd","sector":"Chemicals"},
   {"sym":"UPL.NS","name":"UPL Ltd","sector":"Agrochemicals"},
   {"sym":"BOSCHLTD.NS","name":"Bosch Ltd","sector":"Auto Ancillary"},
@@ -49,5 +47,6 @@
   {"sym":"SJVN.NS","name":"SJVN Ltd","sector":"Power"},
   {"sym":"TATAPOWER.NS","name":"Tata Power","sector":"Power"},
   {"sym":"PATANJALI.NS","name":"Patanjali Foods","sector":"FMCG"},
-  {"sym":"ETERNAL.NS","name":"Eternal Ltd","sector":"Internet"}
+  {"sym":"ETERNAL.NS","name":"Eternal Ltd","sector":"Internet"},
+  {"sym":"ZOMATO.NS","name":"Eternal (Zomato)","sector":"Internet"}
 ]
