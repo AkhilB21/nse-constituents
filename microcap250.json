@@ -1,0 +1,1252 @@
+[
+  {
+    "sym": "APOLLO.NS",
+    "name": "APOLLO",
+    "sector": ""
+  },
+  {
+    "sym": "PCJEWELLER.NS",
+    "name": "PCJEWELLER",
+    "sector": ""
+  },
+  {
+    "sym": "PARAS.NS",
+    "name": "PARAS",
+    "sector": ""
+  },
+  {
+    "sym": "CUPID.NS",
+    "name": "CUPID",
+    "sector": ""
+  },
+  {
+    "sym": "WABAG.NS",
+    "name": "WABAG",
+    "sector": ""
+  },
+  {
+    "sym": "THANGAMAYL.NS",
+    "name": "THANGAMAYL",
+    "sector": ""
+  },
+  {
+    "sym": "GREAVESCOT.NS",
+    "name": "GREAVESCOT",
+    "sector": ""
+  },
+  {
+    "sym": "STLTECH.NS",
+    "name": "STLTECH",
+    "sector": ""
+  },
+  {
+    "sym": "AEQUS.NS",
+    "name": "AEQUS",
+    "sector": ""
+  },
+  {
+    "sym": "BALAMINES.NS",
+    "name": "BALAMINES",
+    "sector": ""
+  },
+  {
+    "sym": "MTARTECH.NS",
+    "name": "MTARTECH",
+    "sector": ""
+  },
+  {
+    "sym": "VIKRAMSOLR.NS",
+    "name": "VIKRAMSOLR",
+    "sector": ""
+  },
+  {
+    "sym": "V2RETAIL.NS",
+    "name": "V2RETAIL",
+    "sector": ""
+  },
+  {
+    "sym": "SKYGOLD.NS",
+    "name": "SKYGOLD",
+    "sector": ""
+  },
+  {
+    "sym": "UJJIVANSFB.NS",
+    "name": "UJJIVANSFB",
+    "sector": ""
+  },
+  {
+    "sym": "NAZARA.NS",
+    "name": "NAZARA",
+    "sector": ""
+  },
+  {
+    "sym": "ASTRAMICRO.NS",
+    "name": "ASTRAMICRO",
+    "sector": ""
+  },
+  {
+    "sym": "SOUTHBANK.NS",
+    "name": "SOUTHBANK",
+    "sector": ""
+  },
+  {
+    "sym": "CCAVENUE.NS",
+    "name": "CCAVENUE",
+    "sector": ""
+  },
+  {
+    "sym": "TIMETECHNO.NS",
+    "name": "TIMETECHNO",
+    "sector": ""
+  },
+  {
+    "sym": "SHILPAMED.NS",
+    "name": "SHILPAMED",
+    "sector": ""
+  },
+  {
+    "sym": "SKIPPER.NS",
+    "name": "SKIPPER",
+    "sector": ""
+  },
+  {
+    "sym": "HAPPSTMNDS.NS",
+    "name": "HAPPSTMNDS",
+    "sector": ""
+  },
+  {
+    "sym": "VIYASH.NS",
+    "name": "VIYASH",
+    "sector": ""
+  },
+  {
+    "sym": "TDPOWERSYS.NS",
+    "name": "TDPOWERSYS",
+    "sector": ""
+  },
+  {
+    "sym": "RATEGAIN.NS",
+    "name": "RATEGAIN",
+    "sector": ""
+  },
+  {
+    "sym": "EMIL.NS",
+    "name": "EMIL",
+    "sector": ""
+  },
+  {
+    "sym": "JAMNAAUTO.NS",
+    "name": "JAMNAAUTO",
+    "sector": ""
+  },
+  {
+    "sym": "TRIVENI.NS",
+    "name": "TRIVENI",
+    "sector": ""
+  },
+  {
+    "sym": "AVALON.NS",
+    "name": "AVALON",
+    "sector": ""
+  },
+  {
+    "sym": "RBA.NS",
+    "name": "RBA",
+    "sector": ""
+  },
+  {
+    "sym": "EIEL.NS",
+    "name": "EIEL",
+    "sector": ""
+  },
+  {
+    "sym": "KIRLPNU.NS",
+    "name": "KIRLPNU",
+    "sector": ""
+  },
+  {
+    "sym": "AETHER.NS",
+    "name": "AETHER",
+    "sector": ""
+  },
+  {
+    "sym": "SHAILY.NS",
+    "name": "SHAILY",
+    "sector": ""
+  },
+  {
+    "sym": "LLOYDSENGG.NS",
+    "name": "LLOYDSENGG",
+    "sector": ""
+  },
+  {
+    "sym": "MSTCLTD.NS",
+    "name": "MSTCLTD",
+    "sector": ""
+  },
+  {
+    "sym": "IXIGO.NS",
+    "name": "IXIGO",
+    "sector": ""
+  },
+  {
+    "sym": "KTKBANK.NS",
+    "name": "KTKBANK",
+    "sector": ""
+  },
+  {
+    "sym": "UTLSOLAR.NS",
+    "name": "UTLSOLAR",
+    "sector": ""
+  },
+  {
+    "sym": "PICCADIL.NS",
+    "name": "PICCADIL",
+    "sector": ""
+  },
+  {
+    "sym": "RAIN.NS",
+    "name": "RAIN",
+    "sector": ""
+  },
+  {
+    "sym": "BBOX.NS",
+    "name": "BBOX",
+    "sector": ""
+  },
+  {
+    "sym": "HCC.NS",
+    "name": "HCC",
+    "sector": ""
+  },
+  {
+    "sym": "DIACABS.NS",
+    "name": "DIACABS",
+    "sector": ""
+  },
+  {
+    "sym": "JAYNECOIND.NS",
+    "name": "JAYNECOIND",
+    "sector": ""
+  },
+  {
+    "sym": "DCBBANK.NS",
+    "name": "DCBBANK",
+    "sector": ""
+  },
+  {
+    "sym": "ARVIND.NS",
+    "name": "ARVIND",
+    "sector": ""
+  },
+  {
+    "sym": "SKFINDUS.NS",
+    "name": "SKFINDUS",
+    "sector": ""
+  },
+  {
+    "sym": "ADVENZYMES.NS",
+    "name": "ADVENZYMES",
+    "sector": ""
+  },
+  {
+    "sym": "REFEX.NS",
+    "name": "REFEX",
+    "sector": ""
+  },
+  {
+    "sym": "JSLL.NS",
+    "name": "JSLL",
+    "sector": ""
+  },
+  {
+    "sym": "INDIGOPNTS.NS",
+    "name": "INDIGOPNTS",
+    "sector": ""
+  },
+  {
+    "sym": "GRWRHITECH.NS",
+    "name": "GRWRHITECH",
+    "sector": ""
+  },
+  {
+    "sym": "SANSERA.NS",
+    "name": "SANSERA",
+    "sector": ""
+  },
+  {
+    "sym": "PRIVISCL.NS",
+    "name": "PRIVISCL",
+    "sector": ""
+  },
+  {
+    "sym": "TEXRAIL.NS",
+    "name": "TEXRAIL",
+    "sector": ""
+  },
+  {
+    "sym": "SHAKTIPUMP.NS",
+    "name": "SHAKTIPUMP",
+    "sector": ""
+  },
+  {
+    "sym": "INDIAGLYCO.NS",
+    "name": "INDIAGLYCO",
+    "sector": ""
+  },
+  {
+    "sym": "VMART.NS",
+    "name": "VMART",
+    "sector": ""
+  },
+  {
+    "sym": "AZAD.NS",
+    "name": "AZAD",
+    "sector": ""
+  },
+  {
+    "sym": "PARKHOSPS.NS",
+    "name": "PARKHOSPS",
+    "sector": ""
+  },
+  {
+    "sym": "TIPSMUSIC.NS",
+    "name": "TIPSMUSIC",
+    "sector": ""
+  },
+  {
+    "sym": "INOXINDIA.NS",
+    "name": "INOXINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "ALIVUS.NS",
+    "name": "ALIVUS",
+    "sector": ""
+  },
+  {
+    "sym": "PNGJL.NS",
+    "name": "PNGJL",
+    "sector": ""
+  },
+  {
+    "sym": "MARKSANS.NS",
+    "name": "MARKSANS",
+    "sector": ""
+  },
+  {
+    "sym": "KPIGREEN.NS",
+    "name": "KPIGREEN",
+    "sector": ""
+  },
+  {
+    "sym": "PFOCUS.NS",
+    "name": "PFOCUS",
+    "sector": ""
+  },
+  {
+    "sym": "VOLTAMP.NS",
+    "name": "VOLTAMP",
+    "sector": ""
+  },
+  {
+    "sym": "TMB.NS",
+    "name": "TMB",
+    "sector": ""
+  },
+  {
+    "sym": "QUESS.NS",
+    "name": "QUESS",
+    "sector": ""
+  },
+  {
+    "sym": "SUPRIYA.NS",
+    "name": "SUPRIYA",
+    "sector": ""
+  },
+  {
+    "sym": "PRICOLLTD.NS",
+    "name": "PRICOLLTD",
+    "sector": ""
+  },
+  {
+    "sym": "WELENT.NS",
+    "name": "WELENT",
+    "sector": ""
+  },
+  {
+    "sym": "AXISCADES.NS",
+    "name": "AXISCADES",
+    "sector": ""
+  },
+  {
+    "sym": "SWSOLAR.NS",
+    "name": "SWSOLAR",
+    "sector": ""
+  },
+  {
+    "sym": "AVANTIFEED.NS",
+    "name": "AVANTIFEED",
+    "sector": ""
+  },
+  {
+    "sym": "DATAMATICS.NS",
+    "name": "DATAMATICS",
+    "sector": ""
+  },
+  {
+    "sym": "SHRIPISTON.NS",
+    "name": "SHRIPISTON",
+    "sector": ""
+  },
+  {
+    "sym": "WEWORK.NS",
+    "name": "WEWORK",
+    "sector": ""
+  },
+  {
+    "sym": "LXCHEM.NS",
+    "name": "LXCHEM",
+    "sector": ""
+  },
+  {
+    "sym": "GOKEX.NS",
+    "name": "GOKEX",
+    "sector": ""
+  },
+  {
+    "sym": "CMSINFO.NS",
+    "name": "CMSINFO",
+    "sector": ""
+  },
+  {
+    "sym": "LUMAXTECH.NS",
+    "name": "LUMAXTECH",
+    "sector": ""
+  },
+  {
+    "sym": "WEBELSOLAR.NS",
+    "name": "WEBELSOLAR",
+    "sector": ""
+  },
+  {
+    "sym": "BORORENEW.NS",
+    "name": "BORORENEW",
+    "sector": ""
+  },
+  {
+    "sym": "KIRLOSBROS.NS",
+    "name": "KIRLOSBROS",
+    "sector": ""
+  },
+  {
+    "sym": "MIDHANI.NS",
+    "name": "MIDHANI",
+    "sector": ""
+  },
+  {
+    "sym": "MANORAMA.NS",
+    "name": "MANORAMA",
+    "sector": ""
+  },
+  {
+    "sym": "CSBBANK.NS",
+    "name": "CSBBANK",
+    "sector": ""
+  },
+  {
+    "sym": "OPTIEMUS.NS",
+    "name": "OPTIEMUS",
+    "sector": ""
+  },
+  {
+    "sym": "ALKYLAMINE.NS",
+    "name": "ALKYLAMINE",
+    "sector": ""
+  },
+  {
+    "sym": "INOXGREEN.NS",
+    "name": "INOXGREEN",
+    "sector": ""
+  },
+  {
+    "sym": "PRAJIND.NS",
+    "name": "PRAJIND",
+    "sector": ""
+  },
+  {
+    "sym": "RUBICON.NS",
+    "name": "RUBICON",
+    "sector": ""
+  },
+  {
+    "sym": "SPARC.NS",
+    "name": "SPARC",
+    "sector": ""
+  },
+  {
+    "sym": "PGIL.NS",
+    "name": "PGIL",
+    "sector": ""
+  },
+  {
+    "sym": "ASHAPURMIN.NS",
+    "name": "ASHAPURMIN",
+    "sector": ""
+  },
+  {
+    "sym": "WAAREERTL.NS",
+    "name": "WAAREERTL",
+    "sector": ""
+  },
+  {
+    "sym": "BLUESTONE.NS",
+    "name": "BLUESTONE",
+    "sector": ""
+  },
+  {
+    "sym": "JSFB.NS",
+    "name": "JSFB",
+    "sector": ""
+  },
+  {
+    "sym": "EDELWEISS.NS",
+    "name": "EDELWEISS",
+    "sector": ""
+  },
+  {
+    "sym": "STAR.NS",
+    "name": "STAR",
+    "sector": ""
+  },
+  {
+    "sym": "SFL.NS",
+    "name": "SFL",
+    "sector": ""
+  },
+  {
+    "sym": "TANLA.NS",
+    "name": "TANLA",
+    "sector": ""
+  },
+  {
+    "sym": "IMFA.NS",
+    "name": "IMFA",
+    "sector": ""
+  },
+  {
+    "sym": "LLOYDSENT.NS",
+    "name": "LLOYDSENT",
+    "sector": ""
+  },
+  {
+    "sym": "JKLAKSHMI.NS",
+    "name": "JKLAKSHMI",
+    "sector": ""
+  },
+  {
+    "sym": "IONEXCHANG.NS",
+    "name": "IONEXCHANG",
+    "sector": ""
+  },
+  {
+    "sym": "TRANSRAILL.NS",
+    "name": "TRANSRAILL",
+    "sector": ""
+  },
+  {
+    "sym": "AARTIPHARM.NS",
+    "name": "AARTIPHARM",
+    "sector": ""
+  },
+  {
+    "sym": "POWERMECH.NS",
+    "name": "POWERMECH",
+    "sector": ""
+  },
+  {
+    "sym": "SMLMAH.NS",
+    "name": "SMLMAH",
+    "sector": ""
+  },
+  {
+    "sym": "AVL.NS",
+    "name": "AVL",
+    "sector": ""
+  },
+  {
+    "sym": "AURIONPRO.NS",
+    "name": "AURIONPRO",
+    "sector": ""
+  },
+  {
+    "sym": "GNFC.NS",
+    "name": "GNFC",
+    "sector": ""
+  },
+  {
+    "sym": "TI.NS",
+    "name": "TI",
+    "sector": ""
+  },
+  {
+    "sym": "ICIL.NS",
+    "name": "ICIL",
+    "sector": ""
+  },
+  {
+    "sym": "BLACKBUCK.NS",
+    "name": "BLACKBUCK",
+    "sector": ""
+  },
+  {
+    "sym": "EQUITASBNK.NS",
+    "name": "EQUITASBNK",
+    "sector": ""
+  },
+  {
+    "sym": "QPOWER.NS",
+    "name": "QPOWER",
+    "sector": ""
+  },
+  {
+    "sym": "VARROC.NS",
+    "name": "VARROC",
+    "sector": ""
+  },
+  {
+    "sym": "ROUTE.NS",
+    "name": "ROUTE",
+    "sector": ""
+  },
+  {
+    "sym": "OSWALPUMPS.NS",
+    "name": "OSWALPUMPS",
+    "sector": ""
+  },
+  {
+    "sym": "JYOTHYLAB.NS",
+    "name": "JYOTHYLAB",
+    "sector": ""
+  },
+  {
+    "sym": "FEDFINA.NS",
+    "name": "FEDFINA",
+    "sector": ""
+  },
+  {
+    "sym": "BALUFORGE.NS",
+    "name": "BALUFORGE",
+    "sector": ""
+  },
+  {
+    "sym": "HCG.NS",
+    "name": "HCG",
+    "sector": ""
+  },
+  {
+    "sym": "ASKAUTOLTD.NS",
+    "name": "ASKAUTOLTD",
+    "sector": ""
+  },
+  {
+    "sym": "SENCO.NS",
+    "name": "SENCO",
+    "sector": ""
+  },
+  {
+    "sym": "EPL.NS",
+    "name": "EPL",
+    "sector": ""
+  },
+  {
+    "sym": "GPPL.NS",
+    "name": "GPPL",
+    "sector": ""
+  },
+  {
+    "sym": "JUSTDIAL.NS",
+    "name": "JUSTDIAL",
+    "sector": ""
+  },
+  {
+    "sym": "YATHARTH.NS",
+    "name": "YATHARTH",
+    "sector": ""
+  },
+  {
+    "sym": "RTNINDIA.NS",
+    "name": "RTNINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "SURYAROSNI.NS",
+    "name": "SURYAROSNI",
+    "sector": ""
+  },
+  {
+    "sym": "ATLANTAELE.NS",
+    "name": "ATLANTAELE",
+    "sector": ""
+  },
+  {
+    "sym": "BECTORFOOD.NS",
+    "name": "BECTORFOOD",
+    "sector": ""
+  },
+  {
+    "sym": "ZAGGLE.NS",
+    "name": "ZAGGLE",
+    "sector": ""
+  },
+  {
+    "sym": "NETWORK18.NS",
+    "name": "NETWORK18",
+    "sector": ""
+  },
+  {
+    "sym": "CORONA.NS",
+    "name": "CORONA",
+    "sector": ""
+  },
+  {
+    "sym": "MOIL.NS",
+    "name": "MOIL",
+    "sector": ""
+  },
+  {
+    "sym": "ARVINDFASN.NS",
+    "name": "ARVINDFASN",
+    "sector": ""
+  },
+  {
+    "sym": "AKUMS.NS",
+    "name": "AKUMS",
+    "sector": ""
+  },
+  {
+    "sym": "SAMHI.NS",
+    "name": "SAMHI",
+    "sector": ""
+  },
+  {
+    "sym": "NESCO.NS",
+    "name": "NESCO",
+    "sector": ""
+  },
+  {
+    "sym": "RELIGARE.NS",
+    "name": "RELIGARE",
+    "sector": ""
+  },
+  {
+    "sym": "INDIASHLTR.NS",
+    "name": "INDIASHLTR",
+    "sector": ""
+  },
+  {
+    "sym": "SANDUMA.NS",
+    "name": "SANDUMA",
+    "sector": ""
+  },
+  {
+    "sym": "BANCOINDIA.NS",
+    "name": "BANCOINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "KSCL.NS",
+    "name": "KSCL",
+    "sector": ""
+  },
+  {
+    "sym": "GSFC.NS",
+    "name": "GSFC",
+    "sector": ""
+  },
+  {
+    "sym": "KSB.NS",
+    "name": "KSB",
+    "sector": ""
+  },
+  {
+    "sym": "SKFINDIA.NS",
+    "name": "SKFINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "PNCINFRA.NS",
+    "name": "PNCINFRA",
+    "sector": ""
+  },
+  {
+    "sym": "RCF.NS",
+    "name": "RCF",
+    "sector": ""
+  },
+  {
+    "sym": "RELAXO.NS",
+    "name": "RELAXO",
+    "sector": ""
+  },
+  {
+    "sym": "THYROCARE.NS",
+    "name": "THYROCARE",
+    "sector": ""
+  },
+  {
+    "sym": "CRAMC.NS",
+    "name": "CRAMC",
+    "sector": ""
+  },
+  {
+    "sym": "EUREKAFORB.NS",
+    "name": "EUREKAFORB",
+    "sector": ""
+  },
+  {
+    "sym": "RTNPOWER.NS",
+    "name": "RTNPOWER",
+    "sector": ""
+  },
+  {
+    "sym": "ELECTCAST.NS",
+    "name": "ELECTCAST",
+    "sector": ""
+  },
+  {
+    "sym": "METROPOLIS.NS",
+    "name": "METROPOLIS",
+    "sector": ""
+  },
+  {
+    "sym": "RALLIS.NS",
+    "name": "RALLIS",
+    "sector": ""
+  },
+  {
+    "sym": "MEDPLUS.NS",
+    "name": "MEDPLUS",
+    "sector": ""
+  },
+  {
+    "sym": "GAEL.NS",
+    "name": "GAEL",
+    "sector": ""
+  },
+  {
+    "sym": "APLLTD.NS",
+    "name": "APLLTD",
+    "sector": ""
+  },
+  {
+    "sym": "CELLO.NS",
+    "name": "CELLO",
+    "sector": ""
+  },
+  {
+    "sym": "THOMASCOOK.NS",
+    "name": "THOMASCOOK",
+    "sector": ""
+  },
+  {
+    "sym": "PTC.NS",
+    "name": "PTC",
+    "sector": ""
+  },
+  {
+    "sym": "EMBDL.NS",
+    "name": "EMBDL",
+    "sector": ""
+  },
+  {
+    "sym": "KNRCON.NS",
+    "name": "KNRCON",
+    "sector": ""
+  },
+  {
+    "sym": "ELLEN.NS",
+    "name": "ELLEN",
+    "sector": ""
+  },
+  {
+    "sym": "MASTEK.NS",
+    "name": "MASTEK",
+    "sector": ""
+  },
+  {
+    "sym": "KRBL.NS",
+    "name": "KRBL",
+    "sector": ""
+  },
+  {
+    "sym": "VIPIND.NS",
+    "name": "VIPIND",
+    "sector": ""
+  },
+  {
+    "sym": "IIFLCAPS.NS",
+    "name": "IIFLCAPS",
+    "sector": ""
+  },
+  {
+    "sym": "AWFIS.NS",
+    "name": "AWFIS",
+    "sector": ""
+  },
+  {
+    "sym": "HERITGFOOD.NS",
+    "name": "HERITGFOOD",
+    "sector": ""
+  },
+  {
+    "sym": "KITEX.NS",
+    "name": "KITEX",
+    "sector": ""
+  },
+  {
+    "sym": "SHARDACROP.NS",
+    "name": "SHARDACROP",
+    "sector": ""
+  },
+  {
+    "sym": "CERA.NS",
+    "name": "CERA",
+    "sector": ""
+  },
+  {
+    "sym": "MANYAVAR.NS",
+    "name": "MANYAVAR",
+    "sector": ""
+  },
+  {
+    "sym": "GMMPFAUDLR.NS",
+    "name": "GMMPFAUDLR",
+    "sector": ""
+  },
+  {
+    "sym": "SUBROS.NS",
+    "name": "SUBROS",
+    "sector": ""
+  },
+  {
+    "sym": "DYNAMATECH.NS",
+    "name": "DYNAMATECH",
+    "sector": ""
+  },
+  {
+    "sym": "TSFINV.NS",
+    "name": "TSFINV",
+    "sector": ""
+  },
+  {
+    "sym": "SUDEEPPHRM.NS",
+    "name": "SUDEEPPHRM",
+    "sector": ""
+  },
+  {
+    "sym": "SUNTECK.NS",
+    "name": "SUNTECK",
+    "sector": ""
+  },
+  {
+    "sym": "RENUKA.NS",
+    "name": "RENUKA",
+    "sector": ""
+  },
+  {
+    "sym": "GMRP&UI.NS",
+    "name": "GMRP&UI",
+    "sector": ""
+  },
+  {
+    "sym": "ALOKINDS.NS",
+    "name": "ALOKINDS",
+    "sector": ""
+  },
+  {
+    "sym": "WAKEFIT.NS",
+    "name": "WAKEFIT",
+    "sector": ""
+  },
+  {
+    "sym": "FIEMIND.NS",
+    "name": "FIEMIND",
+    "sector": ""
+  },
+  {
+    "sym": "HEMIPROP.NS",
+    "name": "HEMIPROP",
+    "sector": ""
+  },
+  {
+    "sym": "NEOGEN.NS",
+    "name": "NEOGEN",
+    "sector": ""
+  },
+  {
+    "sym": "GOKULAGRO.NS",
+    "name": "GOKULAGRO",
+    "sector": ""
+  },
+  {
+    "sym": "ACI.NS",
+    "name": "ACI",
+    "sector": ""
+  },
+  {
+    "sym": "ASHOKA.NS",
+    "name": "ASHOKA",
+    "sector": ""
+  },
+  {
+    "sym": "VAIBHAVGBL.NS",
+    "name": "VAIBHAVGBL",
+    "sector": ""
+  },
+  {
+    "sym": "MAHSCOOTER.NS",
+    "name": "MAHSCOOTER",
+    "sector": ""
+  },
+  {
+    "sym": "LOTUSDEV.NS",
+    "name": "LOTUSDEV",
+    "sector": ""
+  },
+  {
+    "sym": "ANUP.NS",
+    "name": "ANUP",
+    "sector": ""
+  },
+  {
+    "sym": "KRN.NS",
+    "name": "KRN",
+    "sector": ""
+  },
+  {
+    "sym": "AARTIDRUGS.NS",
+    "name": "AARTIDRUGS",
+    "sector": ""
+  },
+  {
+    "sym": "CAMPUS.NS",
+    "name": "CAMPUS",
+    "sector": ""
+  },
+  {
+    "sym": "NFL.NS",
+    "name": "NFL",
+    "sector": ""
+  },
+  {
+    "sym": "JKPAPER.NS",
+    "name": "JKPAPER",
+    "sector": ""
+  },
+  {
+    "sym": "SUDARSCHEM.NS",
+    "name": "SUDARSCHEM",
+    "sector": ""
+  },
+  {
+    "sym": "MAHSEAMLES.NS",
+    "name": "MAHSEAMLES",
+    "sector": ""
+  },
+  {
+    "sym": "CRIZAC.NS",
+    "name": "CRIZAC",
+    "sector": ""
+  },
+  {
+    "sym": "DBREALTY.NS",
+    "name": "DBREALTY",
+    "sector": ""
+  },
+  {
+    "sym": "FINPIPE.NS",
+    "name": "FINPIPE",
+    "sector": ""
+  },
+  {
+    "sym": "RATNAMANI.NS",
+    "name": "RATNAMANI",
+    "sector": ""
+  },
+  {
+    "sym": "GODREJAGRO.NS",
+    "name": "GODREJAGRO",
+    "sector": ""
+  },
+  {
+    "sym": "IFBIND.NS",
+    "name": "IFBIND",
+    "sector": ""
+  },
+  {
+    "sym": "BAJAJELEC.NS",
+    "name": "BAJAJELEC",
+    "sector": ""
+  },
+  {
+    "sym": "RAYMONDLSL.NS",
+    "name": "RAYMONDLSL",
+    "sector": ""
+  },
+  {
+    "sym": "TVSSCS.NS",
+    "name": "TVSSCS",
+    "sector": ""
+  },
+  {
+    "sym": "STYL.NS",
+    "name": "STYL",
+    "sector": ""
+  },
+  {
+    "sym": "ENTERO.NS",
+    "name": "ENTERO",
+    "sector": ""
+  },
+  {
+    "sym": "SMARTWORKS.NS",
+    "name": "SMARTWORKS",
+    "sector": ""
+  },
+  {
+    "sym": "DBL.NS",
+    "name": "DBL",
+    "sector": ""
+  },
+  {
+    "sym": "BIRLACORPN.NS",
+    "name": "BIRLACORPN",
+    "sector": ""
+  },
+  {
+    "sym": "HGINFRA.NS",
+    "name": "HGINFRA",
+    "sector": ""
+  },
+  {
+    "sym": "JAIBALAJI.NS",
+    "name": "JAIBALAJI",
+    "sector": ""
+  },
+  {
+    "sym": "ORKLAINDIA.NS",
+    "name": "ORKLAINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "STARCEMENT.NS",
+    "name": "STARCEMENT",
+    "sector": ""
+  },
+  {
+    "sym": "SAATVIKGL.NS",
+    "name": "SAATVIKGL",
+    "sector": ""
+  },
+  {
+    "sym": "SAFARI.NS",
+    "name": "SAFARI",
+    "sector": ""
+  },
+  {
+    "sym": "VGUARD.NS",
+    "name": "VGUARD",
+    "sector": ""
+  },
+  {
+    "sym": "AGARWALEYE.NS",
+    "name": "AGARWALEYE",
+    "sector": ""
+  },
+  {
+    "sym": "KANSAINER.NS",
+    "name": "KANSAINER",
+    "sector": ""
+  },
+  {
+    "sym": "WESTLIFE.NS",
+    "name": "WESTLIFE",
+    "sector": ""
+  },
+  {
+    "sym": "STYRENIX.NS",
+    "name": "STYRENIX",
+    "sector": ""
+  },
+  {
+    "sym": "GHCL.NS",
+    "name": "GHCL",
+    "sector": ""
+  },
+  {
+    "sym": "TARC.NS",
+    "name": "TARC",
+    "sector": ""
+  },
+  {
+    "sym": "REDTAPE.NS",
+    "name": "REDTAPE",
+    "sector": ""
+  },
+  {
+    "sym": "JLHL.NS",
+    "name": "JLHL",
+    "sector": ""
+  },
+  {
+    "sym": "ORIENTCEM.NS",
+    "name": "ORIENTCEM",
+    "sector": ""
+  },
+  {
+    "sym": "PRUDENT.NS",
+    "name": "PRUDENT",
+    "sector": ""
+  },
+  {
+    "sym": "SANOFICONR.NS",
+    "name": "SANOFICONR",
+    "sector": ""
+  },
+  {
+    "sym": "ETHOSLTD.NS",
+    "name": "ETHOSLTD",
+    "sector": ""
+  },
+  {
+    "sym": "PRSMJOHNSN.NS",
+    "name": "PRSMJOHNSN",
+    "sector": ""
+  },
+  {
+    "sym": "AHLUCONT.NS",
+    "name": "AHLUCONT",
+    "sector": ""
+  },
+  {
+    "sym": "PURVA.NS",
+    "name": "PURVA",
+    "sector": ""
+  },
+  {
+    "sym": "SHAREINDIA.NS",
+    "name": "SHAREINDIA",
+    "sector": ""
+  },
+  {
+    "sym": "CENTURYPLY.NS",
+    "name": "CENTURYPLY",
+    "sector": ""
+  },
+  {
+    "sym": "CAPILLARY.NS",
+    "name": "CAPILLARY",
+    "sector": ""
+  }
+]

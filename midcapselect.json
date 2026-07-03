@@ -1,0 +1,127 @@
+[
+  {
+    "sym": "BSE.NS",
+    "name": "BSE",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "PERSISTENT.NS",
+    "name": "Persistent Systems",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "DIXON.NS",
+    "name": "Dixon Technologies (India)",
+    "sector": "Consumer Durables"
+  },
+  {
+    "sym": "BHEL.NS",
+    "name": "Bharat Heavy Electricals",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "ASHOKLEY.NS",
+    "name": "Ashok Leyland",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "HEROMOTOCO.NS",
+    "name": "Hero MotoCorp",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "SUZLON.NS",
+    "name": "Suzlon Energy",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "POLYCAB.NS",
+    "name": "Polycab India",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "PAYTM.NS",
+    "name": "One 97 Communications",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "INDIANB.NS",
+    "name": "Indian Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "SWIGGY.NS",
+    "name": "Swiggy",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "HINDPETRO.NS",
+    "name": "Hindustan Petroleum Corporation",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "NAUKRI.NS",
+    "name": "Info Edge (India)",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "BHARATFORG.NS",
+    "name": "Bharat Forge",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "SRF.NS",
+    "name": "SRF",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "POLICYBZR.NS",
+    "name": "PB Fintech",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "LUPIN.NS",
+    "name": "Lupin",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "INDUSTOWER.NS",
+    "name": "Indus Towers",
+    "sector": "Telecommunication"
+  },
+  {
+    "sym": "YESBANK.NS",
+    "name": "Yes Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "AUBANK.NS",
+    "name": "AU Small Finance Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "FORTIS.NS",
+    "name": "Fortis Healthcare",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "INDUSINDBK.NS",
+    "name": "IndusInd Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "MARICO.NS",
+    "name": "Marico",
+    "sector": "Fast Moving Consumer Goods"
+  },
+  {
+    "sym": "AUROPHARMA.NS",
+    "name": "Aurobindo Pharma",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "LICI.NS",
+    "name": "Life Insurance Corporation of India",
+    "sector": "Financial Services"
+  }
+]
