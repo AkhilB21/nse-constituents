@@ -1,102 +1,502 @@
 [
-  {"sym":"CARTRADE.NS","name":"CarTrade Tech","sector":"Auto"},
-  {"sym":"JYOTICNC.NS","name":"Jyoti CNC Automation","sector":"Capital Goods"},
-  {"sym":"MEDPLUS.NS","name":"Medplus Health Services","sector":"Healthcare"},
-  {"sym":"RAINBOW.NS","name":"Rainbow Childrens Medicare","sector":"Healthcare"},
-  {"sym":"LATENTVIEW.NS","name":"Latent View Analytics","sector":"IT"},
-  {"sym":"CYIENT.NS","name":"Cyient","sector":"IT"},
-  {"sym":"RAILTEL.NS","name":"Railtel Corporation","sector":"IT"},
-  {"sym":"HAPPSTMNDS.NS","name":"Happiest Minds Tech","sector":"IT"},
-  {"sym":"MASTEK.NS","name":"Mastek Ltd","sector":"IT"},
-  {"sym":"NEWGEN.NS","name":"Newgen Software","sector":"IT"},
-  {"sym":"INTELLECT.NS","name":"Intellect Design Arena","sector":"IT"},
-  {"sym":"ZENSARTECH.NS","name":"Zensar Technologies","sector":"IT"},
-  {"sym":"BIRLASOFT.NS","name":"Birlasoft Ltd","sector":"IT"},
-  {"sym":"FSL.NS","name":"Firstsource Solutions","sector":"IT"},
-  {"sym":"CDSL.NS","name":"CDSL","sector":"Finance"},
-  {"sym":"MCX.NS","name":"Multi Commodity Exchange","sector":"Finance"},
-  {"sym":"NUVAMA.NS","name":"Nuvama Wealth","sector":"Finance"},
-  {"sym":"360ONE.NS","name":"360 ONE WAM","sector":"Finance"},
-  {"sym":"POONAWALLA.NS","name":"Poonawalla Fincorp","sector":"Finance"},
-  {"sym":"CREDITACC.NS","name":"CreditAccess Grameen","sector":"Finance"},
-  {"sym":"IIFL.NS","name":"IIFL Finance","sector":"Finance"},
-  {"sym":"PNBHOUSING.NS","name":"PNB Housing Finance","sector":"Finance"},
-  {"sym":"CANFINHOME.NS","name":"Can Fin Homes","sector":"Finance"},
-  {"sym":"HOMEFIRST.NS","name":"Home First Finance","sector":"Finance"},
-  {"sym":"RITES.NS","name":"RITES Ltd","sector":"Infra"},
-  {"sym":"IRCON.NS","name":"IRCON International","sector":"Infra"},
-  {"sym":"GRSE.NS","name":"Garden Reach Shipbuilders","sector":"Defence"},
-  {"sym":"MAZDOCK.NS","name":"Mazagon Dock Shipbuilders","sector":"Defence"},
-  {"sym":"BDL.NS","name":"Bharat Dynamics","sector":"Defence"},
-  {"sym":"DATAPATTNS.NS","name":"Data Patterns","sector":"Defence"},
-  {"sym":"SANSERA.NS","name":"Sansera Engineering","sector":"Auto Ancillary"},
-  {"sym":"GABRIEL.NS","name":"Gabriel India","sector":"Auto Ancillary"},
-  {"sym":"JYOTHYLAB.NS","name":"Jyothy Labs","sector":"FMCG"},
-  {"sym":"EMAMILTD.NS","name":"Emami Ltd","sector":"FMCG"},
-  {"sym":"RADICO.NS","name":"Radico Khaitan","sector":"FMCG"},
-  {"sym":"TATACHEM.NS","name":"Tata Chemicals","sector":"Chemicals"},
-  {"sym":"NOCIL.NS","name":"NOCIL","sector":"Chemicals"},
-  {"sym":"BALAMINES.NS","name":"Balaji Amines","sector":"Chemicals"},
-  {"sym":"CLEAN.NS","name":"Clean Science & Technology","sector":"Chemicals"},
-  {"sym":"FINEORG.NS","name":"Fine Organic Industries","sector":"Chemicals"},
-  {"sym":"VINATIORGA.NS","name":"Vinati Organics","sector":"Chemicals"},
-  {"sym":"GALAXYSURF.NS","name":"Galaxy Surfactants","sector":"Chemicals"},
-  {"sym":"SUPRIYA.NS","name":"Supriya Lifescience","sector":"Pharma"},
-  {"sym":"NEULANDLAB.NS","name":"Neuland Laboratories","sector":"Pharma"},
-  {"sym":"IPCALAB.NS","name":"IPCA Laboratories","sector":"Pharma"},
-  {"sym":"AJANTPHARM.NS","name":"Ajanta Pharma","sector":"Pharma"},
-  {"sym":"NATCOPHARM.NS","name":"Natco Pharma","sector":"Pharma"},
-  {"sym":"GRANULES.NS","name":"Granules India","sector":"Pharma"},
-  {"sym":"CAPLIPOINT.NS","name":"Caplin Point Labs","sector":"Pharma"},
-  {"sym":"CRAFTSMAN.NS","name":"Craftsman Automation","sector":"Capital Goods"},
-  {"sym":"HAPPYFORGE.NS","name":"Happy Forgings","sector":"Capital Goods"},
-  {"sym":"ELGIEQUIP.NS","name":"Elgi Equipments","sector":"Capital Goods"},
-  {"sym":"TRITURBINE.NS","name":"Triveni Turbine","sector":"Capital Goods"},
-  {"sym":"ACE.NS","name":"Action Construction Equip","sector":"Capital Goods"},
-  {"sym":"TITAGARH.NS","name":"Titagarh Rail Systems","sector":"Capital Goods"},
-  {"sym":"JWL.NS","name":"Jupiter Wagons","sector":"Capital Goods"},
-  {"sym":"AIAENG.NS","name":"AIA Engineering","sector":"Capital Goods"},
-  {"sym":"GRINDWELL.NS","name":"Grindwell Norton","sector":"Capital Goods"},
-  {"sym":"TDPOWERSYS.NS","name":"TD Power Systems","sector":"Capital Goods"},
-  {"sym":"GESHIP.NS","name":"Great Eastern Shipping","sector":"Shipping"},
-  {"sym":"APCOTEX.NS","name":"Apcotex Industries","sector":"Chemicals"},
-  {"sym":"HLEGLAS.NS","name":"HLE Glascoat","sector":"Chemicals"},
-  {"sym":"KFINTECH.NS","name":"KFin Technologies","sector":"Finance"},
-  {"sym":"BFUTILITIE.NS","name":"BF Utilities","sector":"Power"},
-  {"sym":"INOXWIND.NS","name":"Inox Wind","sector":"Power"},
-  {"sym":"IEX.NS","name":"Indian Energy Exchange","sector":"Power"},
-  {"sym":"SUZLON.NS","name":"Suzlon Energy","sector":"Power"},
-  {"sym":"POLYMED.NS","name":"Poly Medicure","sector":"Healthcare"},
-  {"sym":"THYROCARE.NS","name":"Thyrocare Technologies","sector":"Healthcare"},
-  {"sym":"KIMS.NS","name":"Krishna Institute Medical","sector":"Healthcare"},
-  {"sym":"STARHEALTH.NS","name":"Star Health Insurance","sector":"Insurance"},
-  {"sym":"NIACL.NS","name":"New India Assurance","sector":"Insurance"},
-  {"sym":"GICRE.NS","name":"General Insurance Corp","sector":"Insurance"},
-  {"sym":"RATNAMANI.NS","name":"Ratnamani Metals","sector":"Metals"},
-  {"sym":"NATIONALUM.NS","name":"National Aluminium","sector":"Metals"},
-  {"sym":"HINDCOPPER.NS","name":"Hindustan Copper","sector":"Metals"},
-  {"sym":"NMDC.NS","name":"NMDC Ltd","sector":"Mining"},
-  {"sym":"MOIL.NS","name":"MOIL Ltd","sector":"Mining"},
-  {"sym":"IGL.NS","name":"Indraprastha Gas","sector":"Energy"},
-  {"sym":"MGL.NS","name":"Mahanagar Gas","sector":"Energy"},
-  {"sym":"PETRONET.NS","name":"Petronet LNG","sector":"Energy"},
-  {"sym":"CASTROLIND.NS","name":"Castrol India","sector":"Energy"},
-  {"sym":"TRIDENT.NS","name":"Trident Ltd","sector":"Textiles"},
-  {"sym":"WELSPUNLIV.NS","name":"Welspun Living","sector":"Textiles"},
-  {"sym":"KPRMILL.NS","name":"KPR Mill","sector":"Textiles"},
-  {"sym":"VTL.NS","name":"Vardhman Textiles","sector":"Textiles"},
-  {"sym":"SOBHA.NS","name":"Sobha Ltd","sector":"Real Estate"},
-  {"sym":"BRIGADE.NS","name":"Brigade Enterprises","sector":"Real Estate"},
-  {"sym":"SIGNATURE.NS","name":"Signatureglobal India","sector":"Real Estate"},
-  {"sym":"MAHLIFE.NS","name":"Mahindra Lifespace","sector":"Real Estate"},
-  {"sym":"KNRCON.NS","name":"KNR Constructions","sector":"Infra"},
-  {"sym":"NCC.NS","name":"NCC Ltd","sector":"Infra"},
-  {"sym":"PSPPROJECT.NS","name":"PSP Projects","sector":"Infra"},
-  {"sym":"HGINFRA.NS","name":"H.G. Infra Engineering","sector":"Infra"},
-  {"sym":"IRFC.NS","name":"Indian Railway Finance","sector":"Finance"},
-  {"sym":"SBFC.NS","name":"SBFC Finance","sector":"Finance"},
-  {"sym":"NAZARA.NS","name":"Nazara Technologies","sector":"Media"},
-  {"sym":"PVRINOX.NS","name":"PVR Inox","sector":"Media"},
-  {"sym":"GOCOLORS.NS","name":"Go Fashion India","sector":"Consumer"},
-  {"sym":"METROBRAND.NS","name":"Metro Brands","sector":"Consumer"}
+  {
+    "sym": "ZENSARTECH.NS",
+    "name": "Zensar Technolgies",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "FORCEMOT.NS",
+    "name": "Force Motors",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "DELHIVERY.NS",
+    "name": "Delhivery",
+    "sector": "Services"
+  },
+  {
+    "sym": "OLAELEC.NS",
+    "name": "Ola Electric Mobility",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "AEGISLOG.NS",
+    "name": "Aegis Logistics",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "HSCL.NS",
+    "name": "Himadri Speciality Chemical",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "SONACOMS.NS",
+    "name": "Sona BLW Precision Forgings",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "NETWEB.NS",
+    "name": "Netweb Technologies India",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "DATAPATTNS.NS",
+    "name": "Data Patterns (India)",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "TATATECH.NS",
+    "name": "Tata Technologies",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "MEESHO.NS",
+    "name": "Meesho",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "IFCI.NS",
+    "name": "IFCI",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "SAGILITY.NS",
+    "name": "Sagility",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "ATHERENERG.NS",
+    "name": "Ather Energy",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "ANGELONE.NS",
+    "name": "Angel One",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "CDSL.NS",
+    "name": "Central Depository Services (India)",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "IKS.NS",
+    "name": "Inventurus Knowledge Solutions",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "KAYNES.NS",
+    "name": "Kaynes Technology India",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "RPOWER.NS",
+    "name": "Reliance Power",
+    "sector": "Power"
+  },
+  {
+    "sym": "PINELABS.NS",
+    "name": "Pine Labs",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "IDBI.NS",
+    "name": "IDBI Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "WOCKPHARMA.NS",
+    "name": "Wockhardt",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "FIVESTAR.NS",
+    "name": "Five-Star Business Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "ARE&M.NS",
+    "name": "Amara Raja Energy & Mobility",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "GRSE.NS",
+    "name": "Garden Reach Shipbuilders & Engineers",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "CAMS.NS",
+    "name": "Computer Age Management Services",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "KFINTECH.NS",
+    "name": "Kfin Technologies",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "ANANTRAJ.NS",
+    "name": "Anant Raj",
+    "sector": "Realty"
+  },
+  {
+    "sym": "PWL.NS",
+    "name": "Physicswallah",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "GLAND.NS",
+    "name": "Gland Pharma",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "NBCC.NS",
+    "name": "NBCC (India)",
+    "sector": "Construction"
+  },
+  {
+    "sym": "HINDCOPPER.NS",
+    "name": "Hindustan Copper",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "IIFL.NS",
+    "name": "IIFL Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "AMBER.NS",
+    "name": "Amber Enterprises India",
+    "sector": "Consumer Durables"
+  },
+  {
+    "sym": "HBLENGINE.NS",
+    "name": "HBL Engineering",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "RBLBANK.NS",
+    "name": "RBL Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "GMDCLTD.NS",
+    "name": "Gujarat Mineral Development Corporation",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "REDINGTON.NS",
+    "name": "Redington",
+    "sector": "Services"
+  },
+  {
+    "sym": "FIRSTCRY.NS",
+    "name": "Brainbees Solutions",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "CUB.NS",
+    "name": "City Union Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "PGEL.NS",
+    "name": "PG Electroplast",
+    "sector": "Consumer Durables"
+  },
+  {
+    "sym": "KARURVYSYA.NS",
+    "name": "Karur Vysya Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "POONAWALLA.NS",
+    "name": "Poonawalla Fincorp",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "CROMPTON.NS",
+    "name": "Crompton Greaves Consumer Electricals",
+    "sector": "Consumer Durables"
+  },
+  {
+    "sym": "PPLPHARMA.NS",
+    "name": "Piramal Pharma",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "BEML.NS",
+    "name": "BEML",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "GESHIP.NS",
+    "name": "Great Eastern Shipping Co.",
+    "sector": "Services"
+  },
+  {
+    "sym": "BANDHANBNK.NS",
+    "name": "Bandhan Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "MANAPPURAM.NS",
+    "name": "Manappuram Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "FSL.NS",
+    "name": "Firstsource Solutions",
+    "sector": "Services"
+  },
+  {
+    "sym": "ANANDRATHI.NS",
+    "name": "Anand Rathi Wealth",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "NEULANDLAB.NS",
+    "name": "Neuland Laboratories",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "NAVINFLUOR.NS",
+    "name": "Navin Fluorine International",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "KEC.NS",
+    "name": "Kec International",
+    "sector": "Construction"
+  },
+  {
+    "sym": "TENNIND.NS",
+    "name": "Tenneco Clean Air India",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "APTUS.NS",
+    "name": "Aptus Value Housing Finance India",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "DEEPAKFERT.NS",
+    "name": "Deepak Fertilisers & Petrochemicals Corp.",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "CREDITACC.NS",
+    "name": "CreditAccess Grameen",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "JMFINANCIL.NS",
+    "name": "JM Financial",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "PNBHOUSING.NS",
+    "name": "PNB Housing Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "PIRAMALFIN.NS",
+    "name": "Piramal Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "AARTIIND.NS",
+    "name": "Aarti Industries",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "INOXWIND.NS",
+    "name": "Inox Wind",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "IGL.NS",
+    "name": "Indraprastha Gas",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "TRITURBINE.NS",
+    "name": "Triveni Turbine",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "URBANCO.NS",
+    "name": "Urban Company",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "SAILIFE.NS",
+    "name": "Sai Life Sciences",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "WELCORP.NS",
+    "name": "Welspun Corp",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "CGCL.NS",
+    "name": "Capri Global Capital",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "JBMA.NS",
+    "name": "JBM Auto",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "ABREL.NS",
+    "name": "Aditya Birla Real Estate",
+    "sector": "Realty"
+  },
+  {
+    "sym": "NUVAMA.NS",
+    "name": "Nuvama Wealth Management",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "JYOTICNC.NS",
+    "name": "Jyoti CNC Automation",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "NH.NS",
+    "name": "Narayana Hrudayalaya",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "LALPATHLAB.NS",
+    "name": "Dr. Lal Path Labs",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "MRPL.NS",
+    "name": "Mangalore Refinery & Petrochemicals",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "RAMCOCEM.NS",
+    "name": "The Ramco Cements",
+    "sector": "Construction Materials"
+  },
+  {
+    "sym": "NATCOPHARM.NS",
+    "name": "NATCO Pharma",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "TATACHEM.NS",
+    "name": "Tata Chemicals",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "ASTERDM.NS",
+    "name": "Aster DM Healthcare",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "BLS.NS",
+    "name": "BLS International Services",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "GPIL.NS",
+    "name": "Godawari Power & Ispat",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "AFFLE.NS",
+    "name": "Affle 3i",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "SYNGENE.NS",
+    "name": "Syngene International",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "SARDAEN.NS",
+    "name": "Sarda Energy and Minerals",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "BRIGADE.NS",
+    "name": "Brigade Enterprises",
+    "sector": "Realty"
+  },
+  {
+    "sym": "SIGNATURE.NS",
+    "name": "Signatureglobal (India)",
+    "sector": "Realty"
+  },
+  {
+    "sym": "SWANCORP.NS",
+    "name": "Swan Corp",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "CASTROLIND.NS",
+    "name": "Castrol India",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "CHAMBLFERT.NS",
+    "name": "Chambal Fertilizers & Chemicals",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "JSWCEMENT.NS",
+    "name": "JSW Cement",
+    "sector": "Construction Materials"
+  },
+  {
+    "sym": "CESC.NS",
+    "name": "CESC",
+    "sector": "Power"
+  },
+  {
+    "sym": "CHOLAHLDNG.NS",
+    "name": "Cholamandalam Financial Holdings",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "DEVYANI.NS",
+    "name": "Devyani International",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "STARHEALTH.NS",
+    "name": "Star Health and Allied Insurance Company",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "IRCON.NS",
+    "name": "IRCON International",
+    "sector": "Construction"
+  },
+  {
+    "sym": "COHANCE.NS",
+    "name": "Cohance Lifesciences",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "ITI.NS",
+    "name": "ITI",
+    "sector": "Telecommunication"
+  },
+  {
+    "sym": "AFCONS.NS",
+    "name": "Afcons Infrastructure",
+    "sector": "Construction"
+  },
+  {
+    "sym": "WHIRLPOOL.NS",
+    "name": "Whirlpool of India",
+    "sector": "Consumer Durables"
+  }
 ]

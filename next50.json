@@ -1,52 +1,252 @@
 [
-  {"sym":"DMART.NS","name":"Avenue Supermarts","sector":"Retail"},
-  {"sym":"PIDILITIND.NS","name":"Pidilite Industries","sector":"Chemicals"},
-  {"sym":"ADANIGREEN.NS","name":"Adani Green Energy","sector":"Power"},
-  {"sym":"ADANIPOWER.NS","name":"Adani Power","sector":"Power"},
-  {"sym":"ADANIENSOL.NS","name":"Adani Energy Solutions","sector":"Power"},
-  {"sym":"VEDL.NS","name":"Vedanta","sector":"Metals"},
-  {"sym":"JIOFIN.NS","name":"Jio Financial Services","sector":"Finance"},
-  {"sym":"TVSMOTOR.NS","name":"TVS Motor Company","sector":"Auto"},
-  {"sym":"BAJAJHLDNG.NS","name":"Bajaj Holdings","sector":"Finance"},
-  {"sym":"HAL.NS","name":"Hindustan Aeronautics","sector":"Defence"},
-  {"sym":"SIEMENS.NS","name":"Siemens India","sector":"Capital Goods"},
-  {"sym":"ABB.NS","name":"ABB India","sector":"Capital Goods"},
-  {"sym":"DLF.NS","name":"DLF Ltd","sector":"Real Estate"},
-  {"sym":"PNB.NS","name":"Punjab National Bank","sector":"Banking"},
-  {"sym":"GAIL.NS","name":"GAIL India","sector":"Energy"},
-  {"sym":"IOC.NS","name":"Indian Oil Corp","sector":"Energy"},
-  {"sym":"ZYDUSLIFE.NS","name":"Zydus Lifesciences","sector":"Pharma"},
-  {"sym":"LODHA.NS","name":"Macrotech Developers","sector":"Real Estate"},
-  {"sym":"VBL.NS","name":"Varun Beverages","sector":"FMCG"},
-  {"sym":"INDIGO.NS","name":"InterGlobe Aviation","sector":"Aviation"},
-  {"sym":"TRENT.NS","name":"Trent Ltd","sector":"Retail"},
-  {"sym":"HINDZINC.NS","name":"Hindustan Zinc","sector":"Metals"},
-  {"sym":"ICICIPRULI.NS","name":"ICICI Prudential Life","sector":"Insurance"},
-  {"sym":"ICICIGI.NS","name":"ICICI Lombard","sector":"Insurance"},
-  {"sym":"AMBUJACEM.NS","name":"Ambuja Cements","sector":"Cement"},
-  {"sym":"SHREECEM.NS","name":"Shree Cement","sector":"Cement"},
-  {"sym":"DABUR.NS","name":"Dabur India","sector":"FMCG"},
-  {"sym":"GODREJCP.NS","name":"Godrej Consumer Products","sector":"FMCG"},
-  {"sym":"MARICO.NS","name":"Marico Ltd","sector":"FMCG"},
-  {"sym":"COLPAL.NS","name":"Colgate-Palmolive India","sector":"FMCG"},
-  {"sym":"UNITDSPR.NS","name":"United Spirits","sector":"FMCG"},
-  {"sym":"LICI.NS","name":"Life Insurance Corp","sector":"Insurance"},
-  {"sym":"PFC.NS","name":"Power Finance Corp","sector":"Finance"},
-  {"sym":"RECLTD.NS","name":"REC Ltd","sector":"Finance"},
-  {"sym":"IRFC.NS","name":"Indian Railway Finance","sector":"Finance"},
-  {"sym":"SRF.NS","name":"SRF Ltd","sector":"Chemicals"},
-  {"sym":"UPL.NS","name":"UPL Ltd","sector":"Agrochemicals"},
-  {"sym":"BOSCHLTD.NS","name":"Bosch Ltd","sector":"Auto Ancillary"},
-  {"sym":"HDFCAMC.NS","name":"HDFC Asset Management","sector":"Finance"},
-  {"sym":"LTIM.NS","name":"LTIMindtree","sector":"IT"},
-  {"sym":"INDHOTEL.NS","name":"Indian Hotels Company","sector":"Hospitality"},
-  {"sym":"UNIONBANK.NS","name":"Union Bank of India","sector":"Banking"},
-  {"sym":"YESBANK.NS","name":"Yes Bank","sector":"Banking"},
-  {"sym":"IDBI.NS","name":"IDBI Bank","sector":"Banking"},
-  {"sym":"NHPC.NS","name":"NHPC Ltd","sector":"Power"},
-  {"sym":"SJVN.NS","name":"SJVN Ltd","sector":"Power"},
-  {"sym":"TATAPOWER.NS","name":"Tata Power","sector":"Power"},
-  {"sym":"PATANJALI.NS","name":"Patanjali Foods","sector":"FMCG"},
-  {"sym":"ETERNAL.NS","name":"Eternal Ltd","sector":"Internet"},
-  {"sym":"ZOMATO.NS","name":"Eternal (Zomato)","sector":"Internet"}
+  {
+    "sym": "BANKBARODA.NS",
+    "name": "Bank of Baroda",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "TVSMOTOR.NS",
+    "name": "TVS Motor Company",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "CANBK.NS",
+    "name": "Canara Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "DMART.NS",
+    "name": "Avenue Supermarts",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "CGPOWER.NS",
+    "name": "CG Power and Industrial Solutions",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "ADANIPOWER.NS",
+    "name": "Adani Power",
+    "sector": "Power"
+  },
+  {
+    "sym": "TMCV.NS",
+    "name": "Tata Motors",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "ADANIENSOL.NS",
+    "name": "Adani Energy Solutions",
+    "sector": "Power"
+  },
+  {
+    "sym": "LODHA.NS",
+    "name": "Lodha Developers",
+    "sector": "Realty"
+  },
+  {
+    "sym": "ADANIGREEN.NS",
+    "name": "Adani Green Energy",
+    "sector": "Power"
+  },
+  {
+    "sym": "MUTHOOTFIN.NS",
+    "name": "Muthoot Finance",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "DLF.NS",
+    "name": "DLF",
+    "sector": "Realty"
+  },
+  {
+    "sym": "IOC.NS",
+    "name": "Indian Oil Corporation",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "TATAPOWER.NS",
+    "name": "Tata Power Co.",
+    "sector": "Power"
+  },
+  {
+    "sym": "UNIONBANK.NS",
+    "name": "Union Bank of India",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "VEDL.NS",
+    "name": "Vedanta",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "VBL.NS",
+    "name": "Varun Beverages",
+    "sector": "Fast Moving Consumer Goods"
+  },
+  {
+    "sym": "AMBUJACEM.NS",
+    "name": "Ambuja Cements",
+    "sector": "Construction Materials"
+  },
+  {
+    "sym": "DIVISLAB.NS",
+    "name": "Divi's Laboratories",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "BPCL.NS",
+    "name": "Bharat Petroleum Corporation",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "CHOLAFIN.NS",
+    "name": "Cholamandalam Investment and Finance Company",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "INDHOTEL.NS",
+    "name": "Indian Hotels Co.",
+    "sector": "Consumer Services"
+  },
+  {
+    "sym": "BRITANNIA.NS",
+    "name": "Britannia Industries",
+    "sector": "Fast Moving Consumer Goods"
+  },
+  {
+    "sym": "MAZDOCK.NS",
+    "name": "Mazagoan Dock Shipbuilders",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "ENRIN.NS",
+    "name": "Siemens Energy India",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "SOLARINDS.NS",
+    "name": "Solar Industries India",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "GODREJCP.NS",
+    "name": "Godrej Consumer Products",
+    "sector": "Fast Moving Consumer Goods"
+  },
+  {
+    "sym": "CUMMINSIND.NS",
+    "name": "Cummins India",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "ABB.NS",
+    "name": "ABB India",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "BOSCHLTD.NS",
+    "name": "Bosch",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "RECLTD.NS",
+    "name": "REC",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "LTM.NS",
+    "name": "LTM",
+    "sector": "Information Technology"
+  },
+  {
+    "sym": "PNB.NS",
+    "name": "Punjab National Bank",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "MOTHERSON.NS",
+    "name": "Samvardhana Motherson International",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "PFC.NS",
+    "name": "Power Finance Corporation",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "HAL.NS",
+    "name": "Hindustan Aeronautics",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "HINDZINC.NS",
+    "name": "Hindustan Zinc",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "PIDILITIND.NS",
+    "name": "Pidilite Industries",
+    "sector": "Chemicals"
+  },
+  {
+    "sym": "HDFCAMC.NS",
+    "name": "HDFC Asset Management Company",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "IRFC.NS",
+    "name": "Indian Railway Finance Corporation",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "TORNTPHARM.NS",
+    "name": "Torrent Pharmaceuticals",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "SIEMENS.NS",
+    "name": "Siemens",
+    "sector": "Capital Goods"
+  },
+  {
+    "sym": "JINDALSTEL.NS",
+    "name": "Jindal Steel",
+    "sector": "Metals & Mining"
+  },
+  {
+    "sym": "HYUNDAI.NS",
+    "name": "Hyundai Motor India",
+    "sector": "Automobile and Auto Components"
+  },
+  {
+    "sym": "ZYDUSLIFE.NS",
+    "name": "Zydus Lifesciences",
+    "sector": "Healthcare"
+  },
+  {
+    "sym": "GAIL.NS",
+    "name": "GAIL (India)",
+    "sector": "Oil Gas & Consumable Fuels"
+  },
+  {
+    "sym": "TATACAP.NS",
+    "name": "Tata Capital",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "BAJAJHLDNG.NS",
+    "name": "Bajaj Holdings & Investment",
+    "sector": "Financial Services"
+  },
+  {
+    "sym": "UNITDSPR.NS",
+    "name": "United Spirits",
+    "sector": "Fast Moving Consumer Goods"
+  },
+  {
+    "sym": "SHREECEM.NS",
+    "name": "Shree Cement",
+    "sector": "Construction Materials"
+  }
 ]
